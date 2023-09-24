@@ -1,0 +1,6 @@
+echo "Hello"
+this is merge
+<<<<<<< HEAD
+=======
+
+>>>>>>> feature1
